@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iws
+*.iml
+*.ipr
+*/log/
+**/application-local.yml
+**/logback-local.xml
